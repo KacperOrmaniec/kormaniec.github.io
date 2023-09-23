@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Workable//Calendar
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20230711T091706Z
+UID:bvqp0pbqsszw_bjsjhirrqszme1hxjs_
+DTSTART:20230717T090000Z
+DTEND:20230717T093000Z
+DESCRIPTION:
+LOCATION:
+ORGANIZER;CN=Gaming Innovation Group:mailto:c4edfom2cwred@events.workablema
+ il.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interview for Big Data BI Engineer job at Gaming Innovation Group
+TRANSP:OPAQUE
+URL:http://www.workable.com/events/bvqp0pbqsszw_bjsjhirrqszme1hxjs_
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+ ;X-RESPONSE-COMMENT="I'm really glad that you're interested to proceed to 
+ the next stage with my application. Position at GiG was one of mine most w
+ anted offers, that's why I can't wait to talk with you on monday. 
+
+Have a
+  great day,
+Kacper";CN=Kacper Ormaniec:mailto:kacperormaniec@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+ ;CN=Amelia Karp:mailto:amelia.karp@gig.com
+END:VEVENT
+END:VCALENDAR
